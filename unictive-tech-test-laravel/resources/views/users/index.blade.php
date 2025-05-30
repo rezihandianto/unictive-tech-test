@@ -16,7 +16,7 @@
             <tr>
                 <th>Nama</th>
                 <th>Email</th>
-                <th>Hobi</th>
+                <th>Hobby</th>
                 <th>Aksi</th>
             </tr>
         </thead>
@@ -70,9 +70,9 @@
                     </div>
                     <div class="mb-3">
                         <label>Hobby</label>
-                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobi 1">
-                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobi 2">
-                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobi 3">
+                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobby 1">
+                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobby 2">
+                        <input type="text" name="hobbies[]" class="form-control mb-2" placeholder="Hobby 3">
                     </div>
                 </div>
                 <div class="modal-footer">
